@@ -1,0 +1,15 @@
+﻿# SketchUp source (large binaries — keep locally in design/)
+*.skp
+*.skb
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Legacy root copies (canonical paths under assets/renders/)
+/SolarDirectColler*.jpg
